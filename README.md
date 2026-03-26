@@ -51,7 +51,6 @@ Follow these steps:
 1. **Clean the old build directory** (recommended for linker fixes):
 Remove-Item -Path .\build -Recurse -Force
 
-
 2. **Re-configure the project:**
 cmake -B build
 
