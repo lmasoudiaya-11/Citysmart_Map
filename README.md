@@ -9,6 +9,8 @@
 
 This repository contains the **3D map of the Smart City project** that I designed as part of our team project. The map is implemented in C++ using **Raylib**, featuring buildings, roads,  and various facilities.
 
+The full Smart City project is available in the [organization repository](https://github.com/RaylibSmartCity-Devs/CitySmart-).
+
 ## Project Overview
 
 The Smart City project is a collaborative simulation aimed at modeling urban environments with:
@@ -63,4 +65,4 @@ cd build/Debug
 .\CitySmart.exe
 
 ```
-The full Smart City project is available in the [organization repository](https://github.com/RaylibSmartCity-Devs/CitySmart-).
+
