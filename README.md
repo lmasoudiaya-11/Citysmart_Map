@@ -2,7 +2,7 @@
 
 ## 🎮 Demo Video
 
-https://github.com/lmasoudiaya-11/Citysmart_Map/releases/download/v1.0.0/Smart.City.-.Emergency.Demo.2026-03-26.05-30-53.mp4
+[![Watch Demo](demo.png)](https://github.com/lmasoudiaya-11/Citysmart_Map/releases/download/v1.0.0/Smart.City.-.Emergency.Demo.2026-03-26.05-30-53.mp4)
 
 
 > The video showcases the layout of the city, building placement, traffic lights, and interactive elements.
