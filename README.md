@@ -43,9 +43,10 @@ This repository focuses exclusively on the **map design and building placement**
 
 This project uses **CMake** to configure and build the 3D city map. Follow these steps:
 
-1. **Clean the old build directory** (recommended for linker fixes):
+
 
 ```powershell
+1. **Clean the old build directory** (recommended for linker fixes):
 Remove-Item -Path .\build -Recurse -Force
 
 
@@ -66,5 +67,5 @@ Tile Map: Roads, intersections, grass, playgrounds, and parking spaces.
 Facility Map: Buildings and facilities placed on the grid with orientation.
 3D Rendering: Each building is drawn with front, back, and side textures, including window glow effects at night.
 Traffic Lights: Positioned at intersections with red, orange, and green states.
-
+```
 The full Smart City project is available in the [organization repository](https://github.com/RaylibSmartCity-Devs/CitySmart-).
